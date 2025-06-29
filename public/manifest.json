@@ -1,0 +1,33 @@
+{
+  "name": "MediVerse AI - Your AI General Hospital",
+  "short_name": "MediVerse AI",
+  "description": "Comprehensive AI-powered healthcare platform with 70+ medical specialties",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14b8a6",
+  "theme_color": "#14b8a6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
